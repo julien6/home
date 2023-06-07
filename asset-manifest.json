@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.2891b975.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/resume.pdf": "/home/static/media/resume.198b59583308a3adea04.pdf",
+    "static/media/julien_soule.jpeg": "/home/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.2891b975.js.map": "/home/static/js/main.2891b975.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.2891b975.js"
+  ]
+}
