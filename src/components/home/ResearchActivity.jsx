@@ -10,7 +10,9 @@ const ResearchActivity = ({ data }) => {
       <div className="pb-5 text-center">
         <p className="lead">
           <br />
-          <b>{data.title}:</b> {data.description}
+          <b className='text-center'>{data.title}</b>
+          <br /><br />
+          {data.description}
         </p>
 
       </div>

@@ -140,10 +140,10 @@ const researchActivites = {
   heading: "Research Activites",
   data: [{
     title: "Research Theme",
-    description: "My research objective is to define, model, implement and assess a Multi-Agent System to be deployed in an networked information system to ensure Cyberdefense. It implies defining and modeling environment with its constraints. Defender agents are to adapt to the environment while relying on collective strategies."
+    description: "On organizations for a Multi-Agent System to be deployed in an networked information system to ensure/ease Cyberdefense. Agents are to adapt to hardware and software constraints as well as variability in hosts while relying on defensive collective strategies."
   },
   {
-    title: "Key words",
+    title: "Keywords",
     description: "Multi-Agent Reinforcement Learning, Multi-Agent Systems, Software Architecture, Cyberdefense"
   }]
 }

@@ -11,7 +11,7 @@ const ResearchActivities = ({ researchActivities }) => {
     <section fluid id="researchActivities" className="section">
       <Container>
         <Jumbotron className="bg-white">
-          <h2 className="display-4 mb-5 text-right">
+          <h2 className="display-4 mb-5 text-center">
             {researchActivities.heading}
           </h2>
           <Row>

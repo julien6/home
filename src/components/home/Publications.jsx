@@ -16,19 +16,18 @@ const Publications = ({ publications }) => {
           </h2>
           <Row>
             <br />
-            <b>National Conferences</b>
+            <b className='text-center'>International Conferences</b>
             {
-              publications.data.national_conference.map((data, index) => {
+              publications.data.international_conference.map((data, index) => {
                 return <Publication key={index} data={data} />
               })
             }
           </Row>
-          
-          <br />
-          <b>International Conferences</b>
           <Row>
+            <br />
+            <b className='text-center'>National Conferences</b>
             {
-              publications.data.international_conference.map((data, index) => {
+              publications.data.national_conference.map((data, index) => {
                 return <Publication key={index} data={data} />
               })
             }
