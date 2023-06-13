@@ -105,6 +105,7 @@ const App = () => {
           <GetInTouch
             heading={getInTouch.heading}
             message={getInTouch.message}
+            logos={getInTouch.logos}
             email={getInTouch.email}
           />
         )}

@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Julien Soule. I am a PhD student passionated by providing Cyberdefense with Multi-Agent Systems.",
-    resume: require("../editable-stuff/resume.pdf")
+  resume: require("../editable-stuff/resume.pdf")
 };
 
 // PROJECTS SECTION
@@ -113,6 +113,28 @@ const skills = {
 const getInTouch = {
   show: true,
   heading: "Get In Touch",
+  logos: [
+    {
+      src: require('../assets/logos/lcis_logo.png'),
+      height: 100,
+      width: 300
+    },
+    {
+      src: require('../assets/logos/grenoble-inp_logo.png'),
+      height: 100,
+      width: 130
+    },
+    {
+      src: require('../assets/logos/la-ruche_logo.png'),
+      height: 100,
+      width: 90
+    },
+    {
+      src: require('../assets/logos/uga_logo.png'),
+      height: 100,
+      width: 140
+    }
+  ],
   message:
     "I am always open to feedbacks so please feel free to email me at",
   email: "julien.soule@univ-grenoble-alpes.fr",
