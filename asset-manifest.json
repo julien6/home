@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.2d7dd3bf.js",
+    "main.js": "/home/static/js/main.e7f19a8a.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/resume.pdf": "/home/static/media/resume.5327b80f1ddc579d0c1e.pdf",
+    "static/media/resume.pdf": "/home/static/media/resume.75dc9f532746ef4bad0c.pdf",
+    "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
+    "static/media/lcis_logo.png": "/home/static/media/lcis_logo.9037e2d25640764d471f.png",
+    "static/media/uga_logo.png": "/home/static/media/uga_logo.fbdbc74e7747801ec942.png",
+    "static/media/grenoble-inp_logo.png": "/home/static/media/grenoble-inp_logo.4b97a4ac220a826ccd67.png",
     "static/media/julien_soule.jpeg": "/home/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.2d7dd3bf.js.map": "/home/static/js/main.2d7dd3bf.js.map",
+    "main.e7f19a8a.js.map": "/home/static/js/main.e7f19a8a.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.2d7dd3bf.js"
+    "static/js/main.e7f19a8a.js"
   ]
 }
