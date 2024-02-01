@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.38b91583.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/resume.pdf": "/home/static/media/resume.f26f409c13072adb8ce5.pdf",
-    "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
-    "static/media/lcis_logo.png": "/home/static/media/lcis_logo.9037e2d25640764d471f.png",
-    "static/media/uga_logo.png": "/home/static/media/uga_logo.fbdbc74e7747801ec942.png",
-    "static/media/grenoble-inp_logo.png": "/home/static/media/grenoble-inp_logo.4b97a4ac220a826ccd67.png",
-    "static/media/julien_soule.jpeg": "/home/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
-    "index.html": "/home/index.html",
-    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.38b91583.js.map": "/home/static/js/main.38b91583.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.a4e54024.css",
+    "main.js": "/static/js/main.d4e41229.js",
+    "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
+    "static/media/resume.pdf": "/static/media/resume.f26f409c13072adb8ce5.pdf",
+    "static/media/la-ruche_logo.png": "/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
+    "static/media/lcis_logo.png": "/static/media/lcis_logo.9037e2d25640764d471f.png",
+    "static/media/uga_logo.png": "/static/media/uga_logo.fbdbc74e7747801ec942.png",
+    "static/media/grenoble-inp_logo.png": "/static/media/grenoble-inp_logo.4b97a4ac220a826ccd67.png",
+    "static/media/julien_soule.jpeg": "/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
+    "index.html": "/index.html",
+    "main.a4e54024.css.map": "/static/css/main.a4e54024.css.map",
+    "main.d4e41229.js.map": "/static/js/main.d4e41229.js.map",
+    "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe927caf.css",
-    "static/js/main.38b91583.js"
+    "static/css/main.a4e54024.css",
+    "static/js/main.d4e41229.js"
   ]
 }
