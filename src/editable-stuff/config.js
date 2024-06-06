@@ -184,10 +184,19 @@ const publications = {
       {
         full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. JFSMA 2023."
       },
+      {
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Un Outil pour la Conception de SMA par Apprentissage par Renforcement et Modélisation Organisationnelle. JFSMA 2024."
+      },
+      {
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Une Approche basée sur l'Apprentissage par Renforcement pour l'Ingénierie Organisationelle d'un SMA. JFSMA 2024."
+      }
     ],
     international_conference: [
       {
         full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles. IEEE SMC 2023."
+      },
+      {
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. A MARL-based Approach for Easing MAS Organization Engineering. AIAI 2024."
       }
     ],
     national_journal: [],
