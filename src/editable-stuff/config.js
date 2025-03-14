@@ -197,6 +197,9 @@ const publications = {
       },
       {
         full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. A MARL-based Approach for Easing MAS Organization Engineering. AIAI 2024."
+      },
+      {
+        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. An organizationally-oriented approach to enhancing explainability and control in multi-agent reinforcement learning. Proc. of the 24th Int. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2025."
       }
     ],
     national_journal: [],
