@@ -56,7 +56,7 @@ const repos = {
   heading: "Projects",
   gitHubUsername: "julien6", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["CybMASDE"],
+  specificRepos: ["CybMASDE", "MOISE-MARL"],
 };
 
 // Leadership SECTION
@@ -176,30 +176,38 @@ const publications = {
   data: {
     national_conference: [
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. RESSI 2023."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. RESSI 2023.",
+        url: "https://ressi2023.sciencesconf.org/450961/document"
       },
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. RJCIA 2023."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. RJCIA 2023.",
+        url: "https://ut3-toulouseinp.hal.science/hal-04565426/document#page=97"
       },
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. JFSMA 2023."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. De l’Organisation des Systèmes Multi-Agents de Cyberdefense. JFSMA 2023.",
+        url: "https://hal.science/hal-04557739/document#page=55"
       },
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Un Outil pour la Conception de SMA par Apprentissage par Renforcement et Modélisation Organisationnelle. JFSMA 2024."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Un Outil pour la Conception de SMA par Apprentissage par Renforcement et Modélisation Organisationnelle. JFSMA 2024.",
+        url: "https://hal.science/JFSMA/hal-04840721v1"
       },
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Une Approche basée sur l'Apprentissage par Renforcement pour l'Ingénierie Organisationelle d'un SMA. JFSMA 2024."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Une Approche basée sur l'Apprentissage par Renforcement pour l'Ingénierie Organisationelle d'un SMA. JFSMA 2024.",
+        url: "https://hal.science/JFSMA/hal-04840696v1"
       }
     ],
     international_conference: [
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles. IEEE SMC 2023."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles. IEEE SMC 2023.",
+        url: "https://ieeexplore.ieee.org/abstract/document/10394564"
       },
       {
-        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. A MARL-based Approach for Easing MAS Organization Engineering. AIAI 2024."
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. A MARL-based Approach for Easing MAS Organization Engineering. AIAI 2024.",
+        url: "https://link.springer.com/chapter/10.1007/978-3-031-63223-5_24"
       },
       {
-        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. An organizationally-oriented approach to enhancing explainability and control in multi-agent reinforcement learning. Proc. of the 24th Int. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2025."
+        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. An organizationally-oriented approach to enhancing explainability and control in multi-agent reinforcement learning. Proc. of the 24th Int. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2025.",
+        url: "https://aamas2025.org/"
       }
     ],
     national_journal: [],
