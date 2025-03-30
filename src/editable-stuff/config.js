@@ -56,7 +56,7 @@ const repos = {
   heading: "Projects",
   gitHubUsername: "julien6", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["CybMASDE", "MOISE-MARL"],
+  specificRepos: ["MOISE-MARL", "CybMASDE"],
 };
 
 // Leadership SECTION
