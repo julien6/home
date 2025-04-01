@@ -207,7 +207,7 @@ const publications = {
       },
       {
         full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. An organizationally-oriented approach to enhancing explainability and control in multi-agent reinforcement learning. Proc. of the 24th Int. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2025.",
-        url: "https://aamas2025.org/"
+        url: "https://arxiv.org/abs/2503.23615"
       }
     ],
     national_journal: [],
