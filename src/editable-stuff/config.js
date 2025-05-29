@@ -211,7 +211,7 @@ const publications = {
       },
       {
         full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems via an Automated Online Design Framework. Proceedings of the 18th IEEE International Conference on Cloud Computing (CLOUD), Helsinki, Finland, July 2025. (Accepted).",
-        url: ""
+        url: "https://arxiv.org/abs/2505.21559"
       }
     ],
     national_journal: [],
