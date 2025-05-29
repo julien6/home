@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.a4e54024.css",
-    "main.js": "/home/static/js/main.7b8aa471.js",
+    "main.js": "/home/static/js/main.aaaf4e68.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
     "static/media/resume.pdf": "/home/static/media/resume.1176f51233bc0db9e961.pdf",
     "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
@@ -11,11 +11,11 @@
     "static/media/julien_soule.jpeg": "/home/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
     "index.html": "/home/index.html",
     "main.a4e54024.css.map": "/home/static/css/main.a4e54024.css.map",
-    "main.7b8aa471.js.map": "/home/static/js/main.7b8aa471.js.map",
+    "main.aaaf4e68.js.map": "/home/static/js/main.aaaf4e68.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e54024.css",
-    "static/js/main.7b8aa471.js"
+    "static/js/main.aaaf4e68.js"
   ]
 }
