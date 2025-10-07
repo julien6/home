@@ -73,6 +73,24 @@ return (
                             </a>
                         </p>
 
+                        <p className="lead">
+                            <br />
+                            <h5>Jury </h5>
+                            {defense.data.jury.members.map((member, index) => (
+                                <div key={index}>
+                                    <b>{member.name}</b>, {member.title} at {member.institution} ({member.role})
+                                </div>
+                            ))}
+                            <br />
+                            <h5>Guests</h5>
+                            {defense.data.jury.guests.map((member, index) => (
+                                <div key={index}>
+                                    <b>{member.name}</b>, {member.title} at {member.institution} ({member.role})
+                                </div>
+                            ))}
+                            <br />
+                        </p>
+
                     </div>
                 </Row>
             </Jumbotron>

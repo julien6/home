@@ -171,7 +171,71 @@ const defense = {
     keywords: "Multi-Agent Systems, Cyberdefense, Autonomous Intelligent Cyberdefense Agent, Multi-Agent Reinforcement Learning, Assisted-Design",
     zoom_link: "https://grenoble-inp.zoom.us/j/91692482911",
     password: "747546",
-    manuscript: require("../editable-stuff/manuscript.pdf")
+    manuscript: require("../editable-stuff/manuscript.pdf"),
+    jury: {
+      members: [
+        {
+          name: "Jean-Paul Jamont",
+          title: "Full Professor",
+          institution: "Université Grenoble Alpes",
+          role: "Thesis Advisor"
+        },
+        {
+          name: "Michel Occello",
+          title: "Full Professor",
+          institution: "Université Grenoble Alpes",
+          role: "Co-advisor"
+        },
+        {
+          name: "Laurent Vercouter",
+          title: "Full Professor",
+          institution: "INSA Rouen",
+          role: "Reviewer"
+        },
+        {
+          name: "Gauthier Picard",
+          title: "Research Director",
+          institution: "ONERA Toulouse",
+          role: "Reviewer"
+        },
+        {
+          name: "Aurélie Beynier",
+          title: "Full Professor",
+          institution: "Sorbonne Université",
+          role: "Examiner"
+        },
+        {
+          name: "Laeticia Matignon",
+          title: "Associate Professor",
+          institution: "Université Claude Bernard Lyon",
+          role: "Examiner"
+        },
+        {
+          name: "Oum-El-Kheir Aktouf",
+          title: "Full Professor",
+          institution: "Grenoble INP – Université Grenoble Alpes",
+          role: "Examiner"
+        },
+        {
+          name: "Flavien Balbo",
+          title: "Professor",
+          institution: "École des Mines de Saint-Étienne",
+          role: "Examiner"
+        }
+      ],
+      guests: [
+      {
+        name: "Paul Theron",
+        title: "PhD",
+        institution: "AICA IWG"
+      },
+      {
+        name: "Louis-Marie Traonouez",
+        title: "PhD",
+        institution: "Thales Land and Air Systems, BU IAS"
+      }
+    ]
+    }
   }
 }
 
