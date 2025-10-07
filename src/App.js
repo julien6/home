@@ -10,6 +10,7 @@ import {
   getInTouch,
   experiences,
   researchActivites,
+  defense,
   publications
 } from "./editable-stuff/config.js";
 import MainBody from "./components/home/MainBody";
@@ -25,7 +26,10 @@ import Leadership from "./components/home/Leadership.jsx";
 
 import Experience from "./components/home/Experience";
 import ResearchActivites from "./components/home/ResearchActivities"
+import Defense from "./components/home/Defense"
 import Publications from "./components/home/Publications"
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 const Home = React.forwardRef((props, ref) => {
   return (
@@ -46,6 +50,11 @@ const Home = React.forwardRef((props, ref) => {
           resume={about.resume}
         />
       )}
+      {
+        defense.show && (
+          <Defense defense={defense}/>
+        )
+      }
       {
         researchActivites.show && (
           <ResearchActivites researchActivities={researchActivites}/>
@@ -89,15 +98,38 @@ const Home = React.forwardRef((props, ref) => {
   );
 });
 
+
+function ScrollToHashElement() {
+  const { hash } = useLocation();
+
+  useEffect(() => {
+    if (hash) {
+      const id = hash.replace("#", "");
+      const element = document.getElementById(id);
+      if (element) {
+        // Timeout = attendre que le DOM de React soit monté
+        setTimeout(() => {
+          element.scrollIntoView({ behavior: "smooth" });
+        }, 0);
+      }
+    }
+  }, [hash]);
+
+  return null;
+}
+
 const App = () => {
   const titleRef = React.useRef();
 
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       {navBar.show && <Navbar ref={titleRef} />}
+      
+      <ScrollToHashElement />
       <Routes>
         <Route path="/" element={<Home ref={titleRef} />} />
       </Routes>
+      
       {/* {false && <Route path="/blog" exact component={Blog} />}
       {false && <Route path="/blog/:id" component={BlogPost} />} */}
       <Footer>
@@ -113,5 +145,6 @@ const App = () => {
     </BrowserRouter>
   );
 };
+
 
 export default App;

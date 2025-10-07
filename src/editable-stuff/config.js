@@ -157,6 +157,24 @@ const experiences = {
   ]
 }
 
+const defense = {
+  show: true,
+  heading: "Thesis defense",
+  data: {
+    date: "November 17, 2025",
+    location: {
+      full_name: "Esisar – Grenoble INP UGA (Amphitheater A042), 50 Rue Barthélémy de Laffemas, 26000 Valence, France",
+      google_maps_link: "https://maps.app.goo.gl/zNSoSKCdYUdoZ2nt6"
+    },
+    announce: "I will defend my thesis entitled 'On the Organization of a Cyberdefense Multi-Agent Systems'. You are all welcome to attend!",
+    description: 'This thesis explores a distributed approach to cyber defense based on multi-agent systems capable of collectively detecting, responding to, and adapting to autonomous and evolving attacks. The work introduces a hybrid method that combines a symbolic organizational model <span style="white-space:nowrap">(<span style="font-size:0.8em"><InlineMath math="\\mathcal{M}OISE^+" /></span>)</span> with multi-agent reinforcement learning (MARL), framing the design as a constraint optimization problem. A software framework, CybMASDE, was developed and applied to several use cases (drone swarm, company infrastructure, Kubernetes microservices), demonstrating levels of resilience, adaptability, and autonomy that centralized approaches cannot achieve.',
+    keywords: "Multi-Agent Systems, Cyberdefense, Autonomous Intelligent Cyberdefense Agent, Multi-Agent Reinforcement Learning, Assisted-Design",
+    zoom_link: "https://grenoble-inp.zoom.us/j/91692482911",
+    password: "747546",
+    manuscript: require("../editable-stuff/manuscript.pdf")
+  }
+}
+
 const researchActivites = {
   show: true,
   heading: "Research Activites",
@@ -194,6 +212,10 @@ const publications = {
       {
         full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., Traonouez, L.-M. Une Approche basée sur l'Apprentissage par Renforcement pour l'Ingénierie Organisationelle d'un SMA. JFSMA 2024.",
         url: "https://hal.science/JFSMA/hal-04840696v1"
+      },
+      {
+        full_reference: "Soulé, J., Jamont, J.-P., Occello, M., Théron, P., & Traonouez, L.-M. Une approche organisationnelle pour améliorer l’explicabilité et le contrôle dans l’apprentissage par renforcement Multi-agent. JFSMA 2025. (Best paper award)",
+        url: "https://www.cepadues.com/nos-articles/1148/"
       }
     ],
     international_conference: [
@@ -210,7 +232,7 @@ const publications = {
         url: "https://arxiv.org/abs/2503.23615"
       },
       {
-        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems via an Automated Online Design Framework. Proceedings of the 18th IEEE International Conference on Cloud Computing (CLOUD), Helsinki, Finland, July 2025. (Accepted).",
+        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems via an Automated Online Design Framework. Proceedings of the 18th IEEE International Conference on Cloud Computing (CLOUD), Helsinki, Finland, July 2025.",
         url: "https://arxiv.org/abs/2505.21559"
       }
     ],
@@ -226,4 +248,4 @@ const publications = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, researchActivites, publications };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, researchActivites, defense, publications };
