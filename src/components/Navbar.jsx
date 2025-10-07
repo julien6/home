@@ -66,7 +66,7 @@ const Navigation = React.forwardRef((props, ref) => {
               About
             </NavLink>
           )}
-          {
+          {/* {
             defense.show && (
               <NavLink
                 className="nav-item lead"
@@ -74,7 +74,7 @@ const Navigation = React.forwardRef((props, ref) => {
               >
                 Defense
               </NavLink>
-            )}
+            )} */}
           {researchActivites.show && (
             <NavLink
               className="nav-item lead"
