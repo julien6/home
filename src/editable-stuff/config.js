@@ -163,7 +163,7 @@ const defense = {
   data: {
     date: "November 17, 2025",
     location: {
-      full_name: "Esisar – Grenoble INP UGA (Amphitheater A042), 50 Rue Barthélémy de Laffemas, 26000 Valence, France",
+      full_name: "Esisar – Grenoble INP UGA (Amphitheater D030), 50 Rue Barthélémy de Laffemas, 26000 Valence, France",
       google_maps_link: "https://maps.app.goo.gl/zNSoSKCdYUdoZ2nt6"
     },
     announce: "I will defend my thesis entitled 'On the Organization of a Cyberdefense Multi-Agent Systems'. You are all welcome to attend!",
@@ -187,28 +187,16 @@ const defense = {
           role: "Co-advisor"
         },
         {
-          name: "Laurent Vercouter",
-          title: "Full Professor",
-          institution: "INSA Rouen",
-          role: "Reviewer"
-        },
-        {
           name: "Gauthier Picard",
           title: "Research Director",
           institution: "ONERA Toulouse",
           role: "Reviewer"
         },
         {
-          name: "Aurélie Beynier",
+          name: "Laurent Vercouter",
           title: "Full Professor",
-          institution: "Sorbonne Université",
-          role: "Examiner"
-        },
-        {
-          name: "Laeticia Matignon",
-          title: "Associate Professor",
-          institution: "Université Claude Bernard Lyon",
-          role: "Examiner"
+          institution: "INSA Rouen",
+          role: "Reviewer"
         },
         {
           name: "Oum-El-Kheir Aktouf",
@@ -217,9 +205,21 @@ const defense = {
           role: "Examiner"
         },
         {
+          name: "Aurélie Beynier",
+          title: "Full Professor",
+          institution: "Sorbonne Université",
+          role: "Examiner"
+        },
+        {
           name: "Flavien Balbo",
           title: "Professor",
           institution: "École des Mines de Saint-Étienne",
+          role: "Examiner"
+        },
+        {
+          name: "Laeticia Matignon",
+          title: "Associate Professor",
+          institution: "Université Claude Bernard Lyon",
           role: "Examiner"
         }
       ],

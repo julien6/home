@@ -85,7 +85,7 @@ return (
                             <h5>Guests</h5>
                             {defense.data.jury.guests.map((member, index) => (
                                 <div key={index}>
-                                    <b>{member.name}</b>, {member.title} at {member.institution} ({member.role})
+                                    <b>{member.name}</b>, {member.title} at {member.institution}
                                 </div>
                             ))}
                             <br />
