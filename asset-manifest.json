@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/home/static/css/main.999c8567.css",
-    "main.js": "/home/static/js/main.f38f416c.js",
+    "main.js": "/home/static/js/main.9e7fe474.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
     "static/media/manuscript.pdf": "/home/static/media/manuscript.24592bb02995a8de35bf.pdf",
-    "static/media/resume.pdf": "/home/static/media/resume.589ecb4bd2ff1c860dfe.pdf",
+    "static/media/resume.pdf": "/home/static/media/resume.1be843d88f2cd87bedb3.pdf",
     "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
     "static/media/KaTeX_AMS-Regular.ttf": "/home/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/home/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -72,11 +72,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/home/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/home/index.html",
     "main.999c8567.css.map": "/home/static/css/main.999c8567.css.map",
-    "main.f38f416c.js.map": "/home/static/js/main.f38f416c.js.map",
+    "main.9e7fe474.js.map": "/home/static/js/main.9e7fe474.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999c8567.css",
-    "static/js/main.f38f416c.js"
+    "static/js/main.9e7fe474.js"
   ]
 }
