@@ -171,6 +171,7 @@ const defense = {
     keywords: "Multi-Agent Systems, Cyberdefense, Autonomous Intelligent Cyberdefense Agent, Multi-Agent Reinforcement Learning, Assisted-Design",
     zoom_link: "https://grenoble-inp.zoom.us/j/91692482911",
     password: "747546",
+    replay_video: "",
     manuscript: require("../editable-stuff/manuscript.pdf"),
     jury: {
       members: [
