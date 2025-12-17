@@ -70,9 +70,9 @@ const Navigation = React.forwardRef((props, ref) => {
             defense.show && (
               <NavLink
                 className="nav-item lead"
-                href={process.env.PUBLIC_URL + "/#defense"}
+                href={process.env.PUBLIC_URL + "/#thesis"}
               >
-                Defense
+                Thesis
               </NavLink>
             )}
           {researchActivites.show && (

@@ -1,24 +1,18 @@
-import { Jumbotron } from './migration';
-import {
-  Container,
-  Row,
-} from "react-bootstrap";
+import { Jumbotron } from "./migration";
+import { Container, Row } from "react-bootstrap";
 import JsxParser from "react-jsx-parser";
 import { InlineMath } from "react-katex";
-import 'katex/dist/katex.min.css';
+import "katex/dist/katex.min.css";
 
 const Defense = ({ defense }) => {
-return (
-    <section fluid id="defense" className="section">
-        <Container>
-            <Jumbotron className="bg-white">
-                <h2 className="display-4 mb-5 text-center">
-                    {defense.heading}
-                </h2>
-                <Row>
-                    <div className="pb-5 text-center">
-
-                        <p className="lead">
+  return (
+    <section fluid id="thesis" className="section">
+      <Container>
+        <Jumbotron className="bg-white">
+          <h2 className="display-4 mb-5 text-center">{defense.heading}</h2>
+          <Row>
+            <div className="pb-5 text-center">
+              {/* <p className="lead">
                             <br />
                             {defense.data.announce}
                             <br />
@@ -53,27 +47,31 @@ return (
                             <br />
                             <b className='text-center'> 📌 Zoom Password: </b>
                             {defense.data.password}
-                        </p>
+                        </p> */}
 
-                        <p className="lead">
-                            <br />
-                            <h5>Abstract </h5>
-                            <b className='text-center'>
-                                <JsxParser
-                                    components={{ InlineMath }}
-                                    jsx={defense.data.description}
-                                />
-                            </b>
-                            <div style={{ marginTop: "0.5em" }}></div>
-                            <i>{defense.data.keywords}</i>
-                            <br />
-                            <span>📖 </span>
-                            <a href={defense.data.manuscript} className="text-primary">
-                                Manuscript (close to the final version)
-                            </a>
-                        </p>
+              <p className="lead">
+                {/* <h5>Abstract </h5> */}
+                <b className="text-center">
+                  <JsxParser
+                    components={{ InlineMath }}
+                    jsx={defense.data.description}
+                  />
+                </b>
+                <div style={{ marginTop: "0.5em" }}></div>
+                <i>{defense.data.keywords}</i>
+                <br />
+                <span>📖 </span>
+                <a
+                  href={defense.data.manuscript}
+                  className="text-primary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Manuscript (French version, close to the final version)
+                </a>
+              </p>
 
-                        <p className="lead">
+              {/* <p className="lead">
                             <br />
                             <h5>Jury </h5>
                             {defense.data.jury.members.map((member, index) => (
@@ -89,14 +87,13 @@ return (
                                 </div>
                             ))}
                             <br />
-                        </p>
-
-                    </div>
-                </Row>
-            </Jumbotron>
-        </Container>
+                        </p> */}
+            </div>
+          </Row>
+        </Jumbotron>
+      </Container>
     </section>
-);
-}
+  );
+};
 
 export default Defense;

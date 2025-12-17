@@ -159,7 +159,7 @@ const experiences = {
 
 const defense = {
   show: true,
-  heading: "Thesis defense",
+  heading: "Thesis",
   data: {
     date: "November 17, 2025",
     location: {
@@ -167,7 +167,7 @@ const defense = {
       google_maps_link: "https://maps.app.goo.gl/zNSoSKCdYUdoZ2nt6"
     },
     announce: "I will defend my thesis entitled 'On the Organization of a Cyberdefense Multi-Agent Systems'. You are all welcome to attend!",
-    description: 'This thesis explores a distributed approach to cyber defense based on multi-agent systems capable of collectively detecting, responding to, and adapting to autonomous and evolving attacks. The work introduces a hybrid method that combines a symbolic organizational model <span style="white-space:nowrap">(<span style="font-size:0.8em"><InlineMath math="\\mathcal{M}OISE^+" /></span>)</span> with multi-agent reinforcement learning (MARL), framing the design as a constraint optimization problem. A software framework, CybMASDE, was developed and applied to several use cases (drone swarm, company infrastructure, Kubernetes microservices), demonstrating levels of resilience, adaptability, and autonomy that centralized approaches cannot achieve.',
+    description: 'My thesis explores a distributed approach to cyber defense based on multi-agent systems capable of collectively detecting, responding to, and adapting to autonomous and evolving attacks. The work introduces a hybrid method that combines a symbolic organizational model <span style="white-space:nowrap">(<span style="font-size:0.8em"><InlineMath math="\\mathcal{M}OISE^+" /></span>)</span> with multi-agent reinforcement learning (MARL), framing the design as a constraint optimization problem. A software framework, CybMASDE, was developed and applied to several use cases (drone swarm, company infrastructure, Kubernetes microservices), demonstrating levels of resilience, adaptability, and autonomy that centralized approaches cannot achieve.',
     keywords: "Multi-Agent Systems, Cyberdefense, Autonomous Intelligent Cyberdefense Agent, Multi-Agent Reinforcement Learning, Assisted-Design",
     zoom_link: "https://grenoble-inp.zoom.us/j/91692482911",
     password: "747546",
