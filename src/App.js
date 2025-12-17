@@ -50,11 +50,11 @@ const Home = React.forwardRef((props, ref) => {
           resume={about.resume}
         />
       )}
-      {/* {
+      {
         defense.show && (
           <Defense defense={defense}/>
         )
-      } */}
+      }
       {
         researchActivites.show && (
           <ResearchActivites researchActivities={researchActivites}/>
