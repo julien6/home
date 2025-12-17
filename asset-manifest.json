@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/home/static/css/main.999c8567.css",
-    "main.js": "/home/static/js/main.b7ceca3f.js",
+    "main.js": "/home/static/js/main.14a48061.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
-    "static/media/manuscript.pdf": "/home/static/media/manuscript.c0c5bb4b334963d0a648.pdf",
-    "static/media/resume.pdf": "/home/static/media/resume.1be843d88f2cd87bedb3.pdf",
+    "static/media/manuscript.pdf": "/home/static/media/manuscript.6a0a2304bd187f18fef2.pdf",
     "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
+    "static/media/resume.pdf": "/home/static/media/resume.6bfc5f1623f546480f5f.pdf",
     "static/media/KaTeX_AMS-Regular.ttf": "/home/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/home/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/lcis_logo.png": "/home/static/media/lcis_logo.9037e2d25640764d471f.png",
@@ -72,11 +72,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/home/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/home/index.html",
     "main.999c8567.css.map": "/home/static/css/main.999c8567.css.map",
-    "main.b7ceca3f.js.map": "/home/static/js/main.b7ceca3f.js.map",
+    "main.14a48061.js.map": "/home/static/js/main.14a48061.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999c8567.css",
-    "static/js/main.b7ceca3f.js"
+    "static/js/main.14a48061.js"
   ]
 }
