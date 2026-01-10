@@ -42,8 +42,9 @@ const about = {
   imageLink: require("../editable-stuff/julien_soule.jpeg"),
   imageSize: 375,
   message:
-    "My name is Julien Soule. I am a PhD student passionated by providing Cyberdefense with Multi-Agent Systems.",
-  resume: require("../editable-stuff/resume.pdf")
+    "I am a doctoral researcher with a strong interest in Multi-Agent Systems and AI, particularly from a neuro-symbolic perspective.",
+  resume: require("../editable-stuff/resume.pdf"),
+  academic_cv: require("../editable-stuff/academic_cv.pdf")
 };
 
 // PROJECTS SECTION
