@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/home/static/css/main.999c8567.css",
-    "main.js": "/home/static/js/main.87eb7787.js",
+    "main.js": "/home/static/js/main.4dd95e09.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
-    "static/media/manuscript.pdf": "/home/static/media/manuscript.6a0a2304bd187f18fef2.pdf",
+    "static/media/manuscript.pdf": "/home/static/media/manuscript.9c6e803b3827d0f5ddaa.pdf",
     "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
     "static/media/academic_cv.pdf": "/home/static/media/academic_cv.6bfc5f1623f546480f5f.pdf",
     "static/media/resume.pdf": "/home/static/media/resume.474313afc86b36b0d656.pdf",
@@ -73,11 +73,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/home/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/home/index.html",
     "main.999c8567.css.map": "/home/static/css/main.999c8567.css.map",
-    "main.87eb7787.js.map": "/home/static/js/main.87eb7787.js.map",
+    "main.4dd95e09.js.map": "/home/static/js/main.4dd95e09.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999c8567.css",
-    "static/js/main.87eb7787.js"
+    "static/js/main.4dd95e09.js"
   ]
 }
