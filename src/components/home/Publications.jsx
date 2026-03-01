@@ -16,9 +16,27 @@ const Publications = ({ publications }) => {
           </h2>
           <Row>
             <br />
+            <b className='text-center'>International Journals</b>
+            {
+              publications.data.international_journal.map((data, index) => {
+                return <Publication key={index} data={data} />
+              })
+            }
+          </Row>
+          <Row>
+            <br />
             <b className='text-center'>International Conferences</b>
             {
               publications.data.international_conference.map((data, index) => {
+                return <Publication key={index} data={data} />
+              })
+            }
+          </Row>
+          <Row>
+            <br />
+            <b className='text-center'>National Journals</b>
+            {
+              publications.data.national_journal.map((data, index) => {
                 return <Publication key={index} data={data} />
               })
             }

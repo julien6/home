@@ -226,17 +226,17 @@ const defense = {
         }
       ],
       guests: [
-      {
-        name: "Paul Theron",
-        title: "PhD",
-        institution: "AICA IWG"
-      },
-      {
-        name: "Louis-Marie Traonouez",
-        title: "PhD",
-        institution: "Thales Land and Air Systems, BU IAS"
-      }
-    ]
+        {
+          name: "Paul Theron",
+          title: "PhD",
+          institution: "AICA IWG"
+        },
+        {
+          name: "Louis-Marie Traonouez",
+          title: "PhD",
+          institution: "Thales Land and Air Systems, BU IAS"
+        }
+      ]
     }
   }
 }
@@ -302,8 +302,18 @@ const publications = {
         url: "https://arxiv.org/abs/2505.21559"
       }
     ],
-    national_journal: [],
-    international_journal: [],
+    international_journal: [
+      {
+        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. Assisting Multi-Agent Systems Design with MOISE+ and MARL: The MAMAD Method. Journal of Autonomous Agents and Multi-Agent Systems, 2026. Accepted (in press)",
+        url: "https://www.researchsquare.com/article/rs-7166037/v1"
+      }
+    ],
+    national_journal: [
+      {
+        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. MOISE+MARL : un cadre organisationnel pour l'explicabilité et le contrôle en apprentissage par renforcement multi-agent. Revue Ouverte d'Intelligence Artificielle (ROIA), 2025.",
+        url: "https://roia.centre-mersenne.org/"
+      }
+    ],
     national_workshop: [],
     international_workshop: []
   }
