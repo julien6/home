@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/home/static/css/main.999c8567.css",
-    "main.js": "/home/static/js/main.4dd95e09.js",
+    "main.js": "/home/static/js/main.9ef901d0.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
     "static/media/manuscript.pdf": "/home/static/media/manuscript.9c6e803b3827d0f5ddaa.pdf",
-    "static/media/la-ruche_logo.png": "/home/static/media/la-ruche_logo.3d1d657ff8deffc956a1.png",
     "static/media/academic_cv.pdf": "/home/static/media/academic_cv.6bfc5f1623f546480f5f.pdf",
     "static/media/resume.pdf": "/home/static/media/resume.474313afc86b36b0d656.pdf",
     "static/media/KaTeX_AMS-Regular.ttf": "/home/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
+    "static/media/uniLu_logo.png": "/home/static/media/uniLu_logo.02d4acb1cda305ecfd70.png",
     "static/media/KaTeX_Main-Regular.ttf": "/home/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/lcis_logo.png": "/home/static/media/lcis_logo.9037e2d25640764d471f.png",
     "static/media/KaTeX_Main-Bold.ttf": "/home/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
     "static/media/uga_logo.png": "/home/static/media/uga_logo.fbdbc74e7747801ec942.png",
-    "static/media/grenoble-inp_logo.png": "/home/static/media/grenoble-inp_logo.4b97a4ac220a826ccd67.png",
     "static/media/julien_soule.jpeg": "/home/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
     "static/media/KaTeX_Main-Italic.ttf": "/home/static/media/KaTeX_Main-Italic.fa675e5e4bec9eb250b6.ttf",
     "static/media/KaTeX_AMS-Regular.woff": "/home/static/media/KaTeX_AMS-Regular.d562e886c52f12660a41.woff",
@@ -57,6 +56,7 @@
     "static/media/KaTeX_Script-Regular.woff": "/home/static/media/KaTeX_Script-Regular.073b3402d036714b4370.woff",
     "static/media/KaTeX_Size4-Regular.ttf": "/home/static/media/KaTeX_Size4-Regular.4ad7c7e8bb8d10a34bb7.ttf",
     "static/media/KaTeX_SansSerif-Regular.woff2": "/home/static/media/KaTeX_SansSerif-Regular.cd5e231e0cc53b2cb2c0.woff2",
+    "static/media/thales_logo.png": "/home/static/media/thales_logo.417471a96d028209423a.png",
     "static/media/KaTeX_Script-Regular.woff2": "/home/static/media/KaTeX_Script-Regular.c81d1b2a4b75d3eded60.woff2",
     "static/media/KaTeX_Caligraphic-Bold.woff": "/home/static/media/KaTeX_Caligraphic-Bold.d757c535a2e5902f1325.woff",
     "static/media/KaTeX_Caligraphic-Regular.woff": "/home/static/media/KaTeX_Caligraphic-Regular.db074fa22cf224af93d7.woff",
@@ -73,11 +73,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/home/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/home/index.html",
     "main.999c8567.css.map": "/home/static/css/main.999c8567.css.map",
-    "main.4dd95e09.js.map": "/home/static/js/main.4dd95e09.js.map",
+    "main.9ef901d0.js.map": "/home/static/js/main.9ef901d0.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999c8567.css",
-    "static/js/main.4dd95e09.js"
+    "static/js/main.9ef901d0.js"
   ]
 }
