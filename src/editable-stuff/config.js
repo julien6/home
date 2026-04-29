@@ -116,29 +116,33 @@ const getInTouch = {
   heading: "Get In Touch",
   logos: [
     {
+      src: require('../assets/logos/uniLu_logo.png'),
+      height: 90,
+      width: 120,
+      url: "https://wwwen.uni.lu/"
+    },
+    {
+      src: require('../assets/logos/thales_logo.png'),
+      height: 50,
+      width: 430,
+      url: "https://www.thalesgroup.com/"
+    },
+    {
       src: require('../assets/logos/lcis_logo.png'),
-      height: 100,
-      width: 300
-    },
-    {
-      src: require('../assets/logos/grenoble-inp_logo.png'),
-      height: 100,
-      width: 130
-    },
-    {
-      src: require('../assets/logos/la-ruche_logo.png'),
-      height: 100,
-      width: 90
+      height: 90,
+      width: 300,
+      url: "https://lcis.fr/en/the-laboratory"
     },
     {
       src: require('../assets/logos/uga_logo.png'),
-      height: 100,
-      width: 140
+      height: 120,
+      width: 180,
+      url: "https://www.univ-grenoble-alpes.fr/english/"
     }
   ],
   message:
     "I am always open to feedbacks so please feel free to email me at",
-  email: "julien.soule@univ-grenoble-alpes.fr",
+  email: "julien.soule@uni.lu",
 };
 
 const experiences = {

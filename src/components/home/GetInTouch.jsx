@@ -7,15 +7,18 @@ const GetInTouch = ({ heading, message, logos, email }) => {
       <p className="lead text-center pb-3">
         {message}: <a className="text-decoration-none" href={`mailto:${email}`}>{email}</a>.
       </p>
-      <div className="row">
+      <div className="row g-5">
         {logos.map((value, index) => {
           return (
-            <div class="col">
+            <div className="col d-flex align-items-center justify-content-center">
+              <a href={value.url} target="_blank" rel="noopener noreferrer">
               <img
                 src={value.src}
                 width={value.width}
                 height={value.height}
+                alt="logo"
               />
+              </a>
             </div>
           );
         })}
