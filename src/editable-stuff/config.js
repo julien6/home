@@ -304,8 +304,8 @@ const publications = {
     ],
     international_journal: [
       {
-        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. Assisting Multi-Agent Systems Design with MOISE+ and MARL: The MAMAD Method. Journal of Autonomous Agents and Multi-Agent Systems, 2026. Accepted (in press)",
-        url: "https://www.researchsquare.com/article/rs-7166037/v1"
+        full_reference: "J. Soule, J.-P. Jamont, M. Occello, L.-M. Traonouez, and P. Théron. Assisting Multi-Agent Systems Design with MOISE+ and MARL: The MAMAD Method. Journal of Autonomous Agents and Multi-Agent Systems, 2026.",
+        url: "https://link.springer.com/article/10.1007/s10458-026-09740-0"
       }
     ],
     national_journal: [
