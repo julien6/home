@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.999c8567.css",
-    "main.js": "/home/static/js/main.272a898a.js",
+    "main.js": "/home/static/js/main.766407eb.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
     "static/media/manuscript.pdf": "/home/static/media/manuscript.9c6e803b3827d0f5ddaa.pdf",
     "static/media/academic_cv.pdf": "/home/static/media/academic_cv.7adc5445f1b11626c8b2.pdf",
@@ -12,7 +12,7 @@
     "static/media/lcis_logo.png": "/home/static/media/lcis_logo.9037e2d25640764d471f.png",
     "static/media/KaTeX_Main-Bold.ttf": "/home/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
     "static/media/uga_logo.png": "/home/static/media/uga_logo.fbdbc74e7747801ec942.png",
-    "static/media/julien_soule.jpeg": "/home/static/media/julien_soule.3727b1d3e331d5b6b006.jpeg",
+    "static/media/js_focus_photo.jpeg": "/home/static/media/js_focus_photo.e2a4e42031a694ea1c64.jpeg",
     "static/media/KaTeX_Main-Italic.ttf": "/home/static/media/KaTeX_Main-Italic.fa675e5e4bec9eb250b6.ttf",
     "static/media/KaTeX_AMS-Regular.woff": "/home/static/media/KaTeX_AMS-Regular.d562e886c52f12660a41.woff",
     "static/media/KaTeX_Main-BoldItalic.ttf": "/home/static/media/KaTeX_Main-BoldItalic.828abcb200061cffbaae.ttf",
@@ -73,11 +73,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/home/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/home/index.html",
     "main.999c8567.css.map": "/home/static/css/main.999c8567.css.map",
-    "main.272a898a.js.map": "/home/static/js/main.272a898a.js.map",
+    "main.766407eb.js.map": "/home/static/js/main.766407eb.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999c8567.css",
-    "static/js/main.272a898a.js"
+    "static/js/main.766407eb.js"
   ]
 }
