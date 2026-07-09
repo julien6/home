@@ -250,11 +250,11 @@ const researchActivites = {
   heading: "Research Activites",
   data: [{
     title: "Research Theme",
-    description: "On organizations for a Multi-Agent System to be deployed in an networked information system to ensure/ease Cyberdefense. Agents are to adapt to hardware and software constraints as well as variability in hosts while relying on defensive collective strategies."
+    description: "My research lies at the intersection of neuro-symbolic AI, multi-agent reinforcement learning, and world models. I combine symbolic reasoning with machine learning to develop intelligent, explainable, and resilient autonomous systems, with a focus on Cyberdefense and trustworthy Multi-Agent Systems that can be designed, deployed, and adapted throughout their lifecycle through human-in-the-loop supervision and formal guarantees."
   },
   {
     title: "Keywords",
-    description: "Multi-Agent Reinforcement Learning, Multi-Agent Systems, Software Architecture, Cyberdefense"
+    description: "Multi-Agent Reinforcement Learning (MARL), Multi-Agent System Organizations, Neuro-Symbolic AI, Cyberdefense & Intelligent Cyber Agents, World Modeling & Digital Twins, Software Architecture for MAS"
   }]
 }
 
