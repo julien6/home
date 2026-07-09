@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/julien_soule.jpeg"),
   imageSize: 375,
   message:
-    "I am a doctoral researcher with a strong interest in Multi-Agent Systems and AI, particularly from a neuro-symbolic perspective.",
+    "I am a postdoctoral researcher with a strong interest in Multi-Agent Systems and AI, particularly from a neuro-symbolic perspective.",
   resume: require("../editable-stuff/resume.pdf"),
   academic_cv: require("../editable-stuff/academic_cv.pdf")
 };
